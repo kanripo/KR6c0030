@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛般若論
+#+DATE: 2015-08-30 19:44:38.754080
+#+PROPERTY: JUAN 0
